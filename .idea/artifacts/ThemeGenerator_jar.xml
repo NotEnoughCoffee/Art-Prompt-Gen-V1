@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThemeGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ThemeGenerator_jar</output-path>
+    <root id="archive" name="ThemeGenerator.jar">
+      <element id="module-output" name="ThemeGenerator" />
+    </root>
+  </artifact>
+</component>
